@@ -1,0 +1,6 @@
+Food,250
+Travel,500
+Food,150
+Shopping,800
+Travel,300
+Food,200

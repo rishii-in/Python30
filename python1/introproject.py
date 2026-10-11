@@ -1,0 +1,8 @@
+print("------------------------------")
+print("         MY PROFILE            ")
+print("------------------------------")
+print("NAME : Rishi")
+print("Age: 19")
+print("College : LBRCE")
+print("Branch : CSM")
+print("YEAR : 3rd YEAR")

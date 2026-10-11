@@ -1,0 +1,4 @@
+Hello Python
+I am learning programming
+File handling is interesting
+Python is fun
